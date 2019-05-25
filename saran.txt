@@ -1,0 +1,12 @@
+Go to Git folder
+get the git bash here
+-git init
+-git clone https://github.com/dsthamp1988/PageProject.git
+to create branch
+-git branch branch name
+-git checkout branch name
+make necessary changes in branch
+-git add --all
+-git commit -m "commit message"
+go back to master
+-git checkout master
